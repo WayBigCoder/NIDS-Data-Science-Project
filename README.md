@@ -1,5 +1,10 @@
 # NIDS-Data-Science-Project
 <div class="project-container">
+  Data Analytics in Cybersecurity: Insights for Network Intrusion Detection
+Author: Sodikov Ammar
+Institution: University of Twente
+Date: 15 January 2024
+LinkedIn: http://www.linkedin.com/in/ammar-sodikov-4989a12a6
   <br>
   -----<div style = "font-size: 22; font-weight: bold; margin-top: 20; color: #1f4068;">Please open the file: DataDriven_NIDS_Modeling.ipynb</div>-----
 
