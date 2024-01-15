@@ -1,10 +1,30 @@
+<style>/* Title Styles */
+  .project-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #1f4068;
+    text-align: center;
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #e3f2fd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Author Styles */
+  .author-name {
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 5px;
+  }</style>
 # NIDS-Data-Science-Project
 <div class="project-container">
-  Data Analytics in Cybersecurity: Insights for Network Intrusion Detection
-Author: Sodikov Ammar
-Institution: University of Twente
-Date: 15 January 2024
-LinkedIn: http://www.linkedin.com/in/ammar-sodikov-4989a12a6
+<div class="project-title">Data Analytics in Cybersecurity: Insights for Network Intrusion Detection</div>
+  <div class="author-name">Author: Sodikov Ammar</div>
+  <div class="author-name">Institution: University of Twente</div>
+  <div class="author-name">Date: 15 January 2024</div>
+  <div class="author-name">LinkedIn/GitHub: [Your LinkedIn or GitHub Profile URL]</div>
   <br>
   -----<div style = "font-size: 22; font-weight: bold; margin-top: 20; color: #1f4068;">Please open the file: DataDriven_NIDS_Modeling.ipynb</div>-----
 
