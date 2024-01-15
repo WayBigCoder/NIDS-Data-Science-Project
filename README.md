@@ -1,23 +1,3 @@
-<style>/* Title Styles */
-  .project-title {
-    font-size: 28px;
-    font-weight: bold;
-    color: #1f4068;
-    text-align: center;
-    margin-bottom: 15px;
-    padding: 10px;
-    background-color: #e3f2fd;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-
-  /* Author Styles */
-  .author-name {
-    font-size: 16px;
-    color: #333;
-    text-align: center;
-    margin-bottom: 5px;
-  }</style>
 # NIDS-Data-Science-Project
 <div class="project-container">
 <div class="project-title">Data Analytics in Cybersecurity: Insights for Network Intrusion Detection</div>
