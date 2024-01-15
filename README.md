@@ -4,11 +4,9 @@
   <div class="author-name">Author: Sodikov Ammar</div>
   <div class="author-name">Institution: University of Twente</div>
   <div class="author-name">Date: 15 January 2024</div>
-  <div class="author-name">LinkedIn/GitHub: [Your LinkedIn or GitHub Profile URL]</div>
+  <div class="author-name">LinkedIn: <a href = "http://www.linkedin.com/in/ammar-sodikov-4989a12a6">link</a></div>
   <br>
   -----<div style = "font-size: 22; font-weight: bold; margin-top: 20; color: #1f4068;">Please open the file: DataDriven_NIDS_Modeling.ipynb</div>-----
-
-   <div class="author-name"><b>Note: This project was completed as part of university coursework in the "AI & Cyber Security" Module.</b></div>
 <br>
   <div class="section-heading">Overview</div>
   <ul class="paragraph">
