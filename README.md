@@ -1,5 +1,7 @@
 # NIDS-Data-Science-Project
 <div class="project-container">
+  <div class="author-name"><b>Open file: DataDriven_NIDS_Modeling.ipynb</b></div>
+<br><br>
   <div class="project-title">Data Analytics in Cybersecurity: Insights for Network Intrusion Detection</div>
   <div class="author-name">Author: Sodikov Ammar</div>
   <div class="author-name">Institution: University of Twente</div>
