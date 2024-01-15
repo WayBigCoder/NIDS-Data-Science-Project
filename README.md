@@ -1,13 +1,8 @@
 # NIDS-Data-Science-Project
 <div class="project-container">
-  <div class="author-name"><b>Open file: DataDriven_NIDS_Modeling.ipynb</b></div>
-<br><br>
-  <div class="project-title">Data Analytics in Cybersecurity: Insights for Network Intrusion Detection</div>
-  <div class="author-name">Author: Sodikov Ammar</div>
-  <div class="author-name">Institution: University of Twente</div>
-  <div class="author-name">Date: 15 January 2024</div>
-  <div class="author-name">LinkedIn: http://www.linkedin.com/in/ammar-sodikov-4989a12a6</div>
   <br>
+  <div class="author-name"><b>Open file: DataDriven_NIDS_Modeling.ipynb</b></div>
+
    <div class="author-name"><b>Note: This project was completed as part of university coursework in the "AI & Cyber Security" Module.</b></div>
 <br>
   <div class="section-heading">Overview</div>
