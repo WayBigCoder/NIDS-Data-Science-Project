@@ -1,7 +1,7 @@
 # NIDS-Data-Science-Project
 <div class="project-container">
   <br>
-  -----<div style = "font-size: 22; font-weight: bold; margin-top: 20; color: #1f4068;">Open file: DataDriven_NIDS_Modeling.ipynb</div>-----
+  -----<div style = "font-size: 22; font-weight: bold; margin-top: 20; color: #1f4068;">Please open the file: DataDriven_NIDS_Modeling.ipynb</div>-----
 
    <div class="author-name"><b>Note: This project was completed as part of university coursework in the "AI & Cyber Security" Module.</b></div>
 <br>
