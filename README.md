@@ -1,7 +1,7 @@
 # NIDS-Data-Science-Project
 <div class="project-container">
   <br>
-  <div class="author-name"><b>Open file: DataDriven_NIDS_Modeling.ipynb</b></div>
+  <div class="author-name"><b><m style = "color:green;">Open file:</m> DataDriven_NIDS_Modeling.ipynb</b></div>
 
    <div class="author-name"><b>Note: This project was completed as part of university coursework in the "AI & Cyber Security" Module.</b></div>
 <br>
