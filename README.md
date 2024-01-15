@@ -6,8 +6,8 @@
   <div class="author-name">Date: 15 January 2024</div>
   <div class="author-name">LinkedIn: http://www.linkedin.com/in/ammar-sodikov-4989a12a6</div>
   <br>
-   <div class="author-name">Note: This project was completed as part of university coursework in the "AI & Cyber Security" Module.</div>
-
+   <div class="author-name"><b>Note: This project was completed as part of university coursework in the "AI & Cyber Security" Module.</b></div>
+<br>
   <div class="section-heading">Overview</div>
   <ul class="paragraph">
     <li><strong>Project Scope:</strong> This project encompasses the complete journey toward constructing a robust Network Intrusion Detection System (NIDS) to protect against cyber threats. The project phases encompass data preprocessing, machine learning model development, and thorough evaluation.</li>
